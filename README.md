@@ -97,3 +97,5 @@ Open settings screen in "IS Browser" and configure listed parameters:
 - Root directory path (it is a relative path to a shared directory)
 - Access Token
 - Content provider authority (your `InternalStorageFileProvider` authority)
+
+  
